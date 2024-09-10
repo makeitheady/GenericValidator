@@ -6,6 +6,8 @@
 //  Copyright © 2017 Prolific Interactive. All rights reserved.
 //
 
+import Foundation
+
 internal extension UnicodeScalar {
     
     /// Whether the scalar is either a letter or a digit.
